@@ -1,0 +1,6 @@
+print("Masukkan Nama Anda: ")
+nama = input()
+print(f"Halo {nama}, selamat datang!")
+print("Masukkan Alamat Anda:")
+alamat = input()
+print(f"Wah, alamat {nama} berada di {alamat}")
