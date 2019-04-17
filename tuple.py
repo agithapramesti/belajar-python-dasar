@@ -5,7 +5,7 @@ data = () # ga pake kurung []
 pelanggan = ("Gege", "Rani", "Megan")
 
 print(pelanggan)
-
+print(pelanggan[0])
 # perbedaan tuple dan list
 # tuple itu datanya Ga Bisa Di modifikasi dan Delete
 
